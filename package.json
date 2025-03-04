@@ -1,0 +1,11 @@
+{
+  "name": "zoom-api",
+  "module": "app.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
